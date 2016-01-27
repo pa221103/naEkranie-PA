@@ -1,0 +1,17 @@
+C:\Users\Budzian\Documents\Visual Studio 2013\Projects\naEkranie.pl\naEkranie.pl\bin\Debug\naEkranie.pl.exe.config
+C:\Users\Budzian\Documents\Visual Studio 2013\Projects\naEkranie.pl\naEkranie.pl\bin\Debug\naEkranie.pl.exe
+C:\Users\Budzian\Documents\Visual Studio 2013\Projects\naEkranie.pl\naEkranie.pl\bin\Debug\naEkranie.pl.pdb
+C:\Users\Budzian\Documents\Visual Studio 2013\Projects\naEkranie.pl\naEkranie.pl\obj\Debug\naEkranie.pl.Form1.resources
+C:\Users\Budzian\Documents\Visual Studio 2013\Projects\naEkranie.pl\naEkranie.pl\obj\Debug\naEkranie.pl.Properties.Resources.resources
+C:\Users\Budzian\Documents\Visual Studio 2013\Projects\naEkranie.pl\naEkranie.pl\obj\Debug\naEkranie.pl.csproj.GenerateResource.Cache
+C:\Users\Budzian\Documents\Visual Studio 2013\Projects\naEkranie.pl\naEkranie.pl\obj\Debug\naEkranie.pl.exe
+C:\Users\Budzian\Documents\Visual Studio 2013\Projects\naEkranie.pl\naEkranie.pl\obj\Debug\naEkranie.pl.pdb
+C:\Users\M a r c i n\Desktop\naEkranie.pl\naEkranie.pl\naEkranie.pl\bin\Debug\naEkranie.pl.exe.config
+C:\Users\M a r c i n\Desktop\naEkranie.pl\naEkranie.pl\naEkranie.pl\obj\Debug\naEkranie.pl.exe
+C:\Users\M a r c i n\Desktop\naEkranie.pl\naEkranie.pl\naEkranie.pl\obj\Debug\naEkranie.pl.pdb
+C:\Users\M a r c i n\Desktop\naEkranie.pl\naEkranie.pl\naEkranie.pl\bin\Debug\naEkranie.pl.exe
+C:\Users\M a r c i n\Desktop\naEkranie.pl\naEkranie.pl\naEkranie.pl\obj\Debug\naEkranie.pl.csprojResolveAssemblyReference.cache
+C:\Users\M a r c i n\Desktop\naEkranie.pl\naEkranie.pl\naEkranie.pl\obj\Debug\naEkranie.pl.Form1.resources
+C:\Users\M a r c i n\Desktop\naEkranie.pl\naEkranie.pl\naEkranie.pl\obj\Debug\naEkranie.pl.Properties.Resources.resources
+C:\Users\M a r c i n\Desktop\naEkranie.pl\naEkranie.pl\naEkranie.pl\obj\Debug\naEkranie.pl.csproj.GenerateResource.Cache
+C:\Users\M a r c i n\Desktop\naEkranie.pl\naEkranie.pl\naEkranie.pl\bin\Debug\naEkranie.pl.pdb
